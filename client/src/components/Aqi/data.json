@@ -1,0 +1,197 @@
+{
+    "countries": [
+      {
+        "name": "United States",
+        "aqi": 55
+      },
+      {
+        "name": "China",
+        "aqi": 120
+      },
+      {
+        "name": "India",
+        "aqi": 175
+      },
+      {
+        "name": "United Kingdom",
+        "aqi": 42
+      },
+      {
+        "name": "Germany",
+        "aqi": 38
+      },
+      {
+        "name": "France",
+        "aqi": 47
+      },
+      {
+        "name": "Italy",
+        "aqi": 52
+      },
+      {
+        "name": "Japan",
+        "aqi": 65
+      },
+      {
+        "name": "Brazil",
+        "aqi": 88
+      },
+      {
+        "name": "Canada",
+        "aqi": 49
+      },
+      {
+        "name": "Russia",
+        "aqi": 72
+      },
+      {
+        "name": "Australia",
+        "aqi": 33
+      },
+      {
+        "name": "Spain",
+        "aqi": 58
+      },
+      {
+        "name": "South Korea",
+        "aqi": 75
+      },
+      {
+        "name": "Mexico",
+        "aqi": 90
+      },
+      {
+        "name": "Indonesia",
+        "aqi": 102
+      },
+      {
+        "name": "Netherlands",
+        "aqi": 46
+      },
+      {
+        "name": "Saudi Arabia",
+        "aqi": 100
+      },
+      {
+        "name": "Turkey",
+        "aqi": 63
+      },
+      {
+        "name": "Switzerland",
+        "aqi": 41
+      },
+      {
+        "name": "Sweden",
+        "aqi": 35
+      },
+      {
+        "name": "Norway",
+        "aqi": 39
+      },
+      {
+        "name": "Poland",
+        "aqi": 55
+      },
+      {
+        "name": "Argentina",
+        "aqi": 80
+      },
+      {
+        "name": "Austria",
+        "aqi": 44
+      },
+      {
+        "name": "Belgium",
+        "aqi": 48
+      },
+      {
+        "name": "United Arab Emirates",
+        "aqi": 95
+      },
+      {
+        "name": "Thailand",
+        "aqi": 82
+      },
+      {
+        "name": "Iran",
+        "aqi": 110
+      },
+      {
+        "name": "South Africa",
+        "aqi": 70
+      },
+      {
+        "name": "Egypt",
+        "aqi": 98
+      },
+      {
+        "name": "Vietnam",
+        "aqi": 85
+      },
+      {
+        "name": "Malaysia",
+        "aqi": 72
+      },
+      {
+        "name": "Philippines",
+        "aqi": 87
+      },
+      {
+        "name": "Pakistan",
+        "aqi": 140
+      },
+      {
+        "name": "Bangladesh",
+        "aqi": 165
+      },
+      {
+        "name": "Nigeria",
+        "aqi": 78
+      },
+      {
+        "name": "Colombia",
+        "aqi": 75
+      },
+      {
+        "name": "Chile",
+        "aqi": 65
+      },
+      {
+        "name": "Peru",
+        "aqi": 55
+      },
+      {
+        "name": "Greece",
+        "aqi": 53
+      },
+      {
+        "name": "Iraq",
+        "aqi": 125
+      },
+      {
+        "name": "Algeria",
+        "aqi": 88
+      },
+      {
+        "name": "Portugal",
+        "aqi": 48
+      },
+      {
+        "name": "Israel",
+        "aqi": 70
+      },
+      {
+        "name": "Finland",
+        "aqi": 37
+      },
+      {
+        "name": "Denmark",
+        "aqi": 45
+      },
+      {
+        "name": "Singapore",
+        "aqi": 48
+      }
+    ]
+  }
+  

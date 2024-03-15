@@ -1,0 +1,37 @@
+.dashboard-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dashboard-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .dashboard-container canvas {
+    margin: auto;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .dashboard-container {
+    width: 80%;
+    margin: 80px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .chart-wrapper {
+    flex: 1;
+  }
+  
+  .country-list {
+    padding-left: 20px; /* Adjust as needed */
+  }
+  
+  .country-item {
+    margin-bottom: 10px; /* Adjust as needed */
+  }
+  
+  
